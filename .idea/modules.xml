@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FruitMarketweb(1).iml" filepath="$PROJECT_DIR$/FruitMarketweb(1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../网课试炼代码/java代码/springboot-helloworld/springboot-helloworld.iml" filepath="$PROJECT_DIR$/../../网课试炼代码/java代码/springboot-helloworld/springboot-helloworld.iml" />
+    </modules>
+  </component>
+</project>
